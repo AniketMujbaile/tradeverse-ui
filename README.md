@@ -1,3 +1,7 @@
+## 🧑‍💻Screenshots
+<img src="https://github.com/AniketMujbaile/tradeverse-ui/blob/main/Img/output.png" width="500px">
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
